@@ -1,0 +1,13 @@
+{
+  "name": "pkgpool/init",
+  "description": "",
+  "type": "project",
+  "license": "MIT",
+  "homepage": "https://github.com/pkgpool",
+  "keywords": ["pkgpool", "init-composer"],
+  "config": {
+    "optimize-autoloader": true,
+    "prepend-autoloader": false,
+    "sort-packages": true
+  }
+}
